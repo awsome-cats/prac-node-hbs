@@ -1,0 +1,22 @@
+ウェブサーバーのプログラミング
+= ブラウザ経由のアクセス
+
+>>Express
+>> HTTP リクエスト
+>> routing -ルーティング
+>> static = 静的
+>> 静的ファイル
+>> 動的ファイル, dynamic
+>> view engine
+ - ejs, pug(jade), handlebars, hogan
+>> partial = htmlコードをまとめる
+>> helper = 関数をまとめる
+>> middleware ブラウザとWEBサーバーの間の処理
+>> RESTful = Representational State Transfer CRUDできるWEBアプリ
+>> ブラウザ <> サーバー
+>> HTTPリクエスト
+ >> POST -送信 -create
+ >> GET -取得 -read
+ >> PUT -編集 -update
+ >> DELETE ー削除 -DELETE
+>> CRUD operation
